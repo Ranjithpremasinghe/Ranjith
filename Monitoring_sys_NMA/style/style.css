@@ -1,0 +1,15 @@
+﻿.login {
+    background-image:url('../images/9.jpg') !important;
+     background-repeat: no-repeat, repeat;
+}
+
+
+.login .card{
+    background-color: #ffffffa3;
+  padding: 60px;
+}
+.login .card-title{
+    padding:20px 20px;
+    margin-bottom:20px;
+    text-align: center;
+}
